@@ -1,4 +1,4 @@
-### Online Voting Management README
+### Online Voting Management
 
 Welcome to Online Voting Management, a web application designed to conduct elections securely over the Internet.
 
